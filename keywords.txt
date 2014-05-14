@@ -1,0 +1,21 @@
+#######################################
+# Syntax Coloring Map SPI
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+SerialLedController	KEYWORD1
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+begin	KEYWORD2
+write	KEYWORD2
+start	KEYWORD2
+stop	KEYWORD2
+reset	KEYWORD2
+#######################################
+# Constants (LITERAL1)
+#######################################
+SERIALCOMMAND_FIXEDLEN	LITERAL1
+PIN_NOTUSE	LITERAL1

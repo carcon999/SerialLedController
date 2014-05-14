@@ -4,3 +4,5 @@ SerialLedController
 をArduinoで利用するためのライブラリです。
 
 利用方法については、整備中です。examplesが多少参考になります。
+
+Release 0.1

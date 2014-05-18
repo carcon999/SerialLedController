@@ -1,7 +1,9 @@
 SerialLedController
 ===================
 [フルカラーLEDコントローラ用シールド](http://blogs.yahoo.co.jp/carcon999/folder/1250867.html)
-をArduinoで簡単に利用するためのライブラリです。  本ライブラリを利用することで、シリアルコマンドのテーブルを指定するだけで、LEDの演出を切り替えることができるようになります。
+をArduinoで簡単に利用するためのライブラリです。  本ライブラリを利用することで、シリアルコマンドのテーブルを指定するだけで、LEDの演出を切り替えることができるようになります。  
+![Image](https://raw.githubusercontent.com/carcon999/SerialLedController/master/image/redbd.jpg)
+
 # Arduino IDEへのインストール方法
 
  1. Releaseされた[SerialLedContorller.zip](https://github.com/carcon999/SerialLedController/releases)をダウンロードします。（ファイル名やフォルダ名は変更しないでください。）

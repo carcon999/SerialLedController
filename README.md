@@ -4,7 +4,10 @@ SerialLedController
 をArduinoで簡単に利用するためのライブラリです。  本ライブラリを利用することで、シリアルコマンドのテーブルを指定するだけで、LEDの演出を切り替えることができるようになります。
 # Arduino IDEへのインストール方法
 
- TBD
+ 1. Releaseされた[SerialLedContorller.zip](https://github.com/carcon999/SerialLedController/releases)をダウンロードします。（ファイル名やフォルダ名は変更しないでください。）
+ 2. Arduino IDEを起動し、メニューから以下の順序で指定しライブラリを追加してください。  
+ 3. 「スケッチ」->「ライブラリを使用」->「Add Library...」でZipファイルを指定します。
+ 4. 「ファイル」->「スケッチブック」->「Libraries」->「SerialLedController」->「SerialLedShield」より各種サンプルスケッチを実行することができます。
 
 # 使い方
 

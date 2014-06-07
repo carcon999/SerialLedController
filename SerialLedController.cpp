@@ -105,11 +105,11 @@ void SerialLedController::select_baudrate(void)
   {
     if(is_hi_speed)
     {
-      digitalWrite(PIN_BAUDRATE, LOW);
+      digitalWrite(pin_baudrate, LOW);
     }
     else
     {
-      digitalWrite(PIN_BAUDRATE, HIGH);
+      digitalWrite(pin_baudrate, HIGH);
     }
   }
 }
